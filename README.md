@@ -1,12 +1,12 @@
 # QA Portfolio  
 
 
-### **About Me 👋**  
+### **👋 About Me**  
 Hi, my name is **Narasimha Sai Srinivas Machavaram**, and I have over **2 years of experience** in **Manual testing** and **Automation testing**. I'm passionate about delivering high-quality software and enhancing user experience through efficient and effective testing. My expertise includes **test case design, test execution, bug reporting**, **API testing**, and **automation testing using Playwright with JavaScript**.
 
 I am **ISTQB CTFL certified** and committed to continuous learning through hands-on practice, courses, and real-world projects. My current focus is to **master automation testing tools** and frameworks while maintaining a solid foundation in manual testing principles.
 
-### **Tools & Technologies 🛠**
+### **🛠 Tools & Technologies**
 
 - **Test Management:** Jira, TestRail, QMetry  
 - **Bug Tracking:** Jira  
@@ -20,7 +20,7 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 
 ---
 
-### Certifications 🏆  
+## 🏆 Certifications   
 - **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
 
 ---
@@ -46,12 +46,7 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 
 ---
 
-### Learning & Goals 📘
+## Learning & Goals 📘
 - Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
 - Exploring API automation with REST Assured
 - Working towards mastering CI/CD pipelines with Jenkins
-
---
-
-
-
