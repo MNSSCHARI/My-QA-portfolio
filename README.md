@@ -18,14 +18,14 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - **Testing Types:** Functional, Regression, Smoke, UI, Mobile Testing (Android & iOS)  
 - **Methodologies:** Agile/Scrum, Waterfall
 
+---
 
-
-## 🏆 Certifications   
+### 🏆 Certifications   
 - **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
 
+---
 
-
-## 💼 Projects
+### 💼 Projects
 
 ### 🧪 SaaS Project – Airtable
 - Automated the Airtable platform using **Playwright (JavaScript)** with the **Page Object Model (POM)** and **BDD** approach for modular, maintainable scripts.  
@@ -44,9 +44,9 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - Collaborated with analysts and developers via **Slack & Zoom**, contributing to sprint planning and team discussions.  
 - **Focus:** Delivering high-quality gaming experiences through structured testing and quick issue resolution.
 
+---
 
-
-## Learning & Goals 📘
+### Learning & Goals 📘
 - Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
 - Exploring API automation with REST Assured
 - Working towards mastering CI/CD pipelines with Jenkins
