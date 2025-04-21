@@ -22,13 +22,17 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
 
 ### Projects 💼
-- **Airtable Regression Suite**  
-  Performed daily smoke and regression testing, designed test cases, and maintained test results using TestRail and Jira.  
-  Technologies: Manual Testing, Jira, TestRail, Mobile Testing, Slack
+- **SaaS Project – Airtable**
+- Automated testing for the Airtable platform using Playwright with JavaScript, structured with the Page Object Model (POM) and BDD to ensure modularity and readability.
+- Integrated the automation suite into CI/CD pipelines (Jenkins) for efficient and continuous test execution.
+- Performed API testing using Postman, validating endpoints and ensuring backend functionality.
+- Managed version control with Git & GitHub and followed Agile workflows using Jira for sprint planning and defect tracking.
 
-- **Fortnite UEFN Testing**  
-  Conducted functional and UI testing for Epic Games project; helped report and close over 200+ bugs using Jira.  
-  Technologies: Playwright, Jira, Git, Confluence
+Focus: Building robust, scalable automation solutions while maintaining testing best practices and delivering high-quality software.
+
+- **Gaming Project - Fortnite, UEFN Testing**  
+- Conducted functional and UI testing for Epic Games project; helped report and close over 200+ bugs using Jira.  
+- Technologies: Playwright, Jira, Git, Confluence
 
 ### Learning & Goals 📘
 - Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
