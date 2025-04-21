@@ -19,5 +19,21 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - **Methodologies:** Agile/Scrum, Waterfall  
 
 ### Certifications 🏆  
-- **ISTQB Certified Tester Foundation Level - 4.0 (CTFL)**  
+- **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
+
+### Projects 💼
+- **Airtable Regression Suite**  
+  Performed daily smoke and regression testing, designed test cases, and maintained test results using TestRail and Jira.  
+  Technologies: Manual Testing, Jira, TestRail, Mobile Testing, Slack
+
+- **Fortnite UEFN Testing**  
+  Conducted functional and UI testing for Epic Games project; helped report and close over 200+ bugs using Jira.  
+  Technologies: Playwright, Jira, Git, Confluence
+
+### Learning & Goals 📘
+- Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
+- Exploring API automation with REST Assured
+- Working towards mastering CI/CD pipelines with Jenkins
+
+
 
