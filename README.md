@@ -21,20 +21,26 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 ### Certifications 🏆  
 - **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
 
-### Projects 💼
-- **SaaS Project – Airtable**
-- Automated testing for the Airtable platform using Playwright with JavaScript, structured with the Page Object Model (POM) and BDD to ensure modularity and readability.
-- Integrated the automation suite into CI/CD pipelines (Jenkins) for efficient and continuous test execution.
-- Performed API testing using Postman, validating endpoints and ensuring backend functionality.
-- Managed version control with Git & GitHub and followed Agile workflows using Jira for sprint planning and defect tracking.
-- **Focus:** Building robust, scalable automation solutions while maintaining testing best practices and delivering high-quality software.
+## 💼 Projects
 
-- **Gaming Project – Epic Games (Fortnite & UEFN)**
-- Conducted end-to-end manual and mobile testing for Fortnite and Unreal Engine for Fortnite (UEFN) across Android & iOS platforms.
-- Designed and executed test cases based on BTR documents, focusing on regression, smoke, UI, and functional testing.
-- Identified, tracked, and verified over 200+ bugs using Jira, ensuring stability across builds and updates.
-- Collaborated with analysts and developers via Slack & Zoom, contributing to sprint goals and cross-functional quality discussions.
-- **Focus:** Delivering immersive gaming experiences through thorough testing and fast-paced issue resolution in a real-time environment.
+### 🧪 SaaS Project – Airtable
+- Automated the Airtable platform using **Playwright (JavaScript)** with the **Page Object Model (POM)** and **BDD** approach for modular, maintainable scripts.  
+- Integrated test suites into **CI/CD pipelines (Jenkins)** for continuous testing.  
+- Performed **API testing** using **Postman** to validate backend functionality.  
+- Used **Git & GitHub** for version control.  
+- Followed **Agile** methodology with task tracking and sprint planning in **Jira**.  
+- **Focus:** Building scalable automation frameworks and maintaining software quality through continuous testing and collaboration.
+
+---
+
+### 🎮 Gaming Project – Epic Games (Fortnite & UEFN)
+- Conducted **manual and mobile testing** (Android & iOS) for **Fortnite** and **Unreal Engine for Fortnite (UEFN)**.  
+- Designed and executed **test cases** based on **BTR documents**, covering **regression**, **smoke**, **UI**, and **functional testing**.  
+- Reported and tracked **200+ bugs using Jira**, ensuring stability across builds.  
+- Collaborated with analysts and developers via **Slack & Zoom**, contributing to sprint planning and team discussions.  
+- **Focus:** Delivering high-quality gaming experiences through structured testing and quick issue resolution.
+
+
 
 ### Learning & Goals 📘
 - Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
