@@ -16,10 +16,14 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - **CI/CD:** Jenkins, TeamCity
 - **Web Technologies:** HTML, CSS, JavaScript  
 - **Testing Types:** Functional, Regression, Smoke, UI, Mobile Testing (Android & iOS)  
-- **Methodologies:** Agile/Scrum, Waterfall  
+- **Methodologies:** Agile/Scrum, Waterfall
+
+---
 
 ### Certifications 🏆  
 - **I am ISTQB CTFL certified and committed to continuous learning through hands-on practice**
+
+---
 
 ## 💼 Projects
 
@@ -40,12 +44,14 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - Collaborated with analysts and developers via **Slack & Zoom**, contributing to sprint planning and team discussions.  
 - **Focus:** Delivering high-quality gaming experiences through structured testing and quick issue resolution.
 
-
+---
 
 ### Learning & Goals 📘
 - Deepening knowledge in Playwright with JavaScript (automation frameworks, selectors, debugging)
 - Exploring API automation with REST Assured
 - Working towards mastering CI/CD pipelines with Jenkins
+
+--
 
 
 
