@@ -41,7 +41,11 @@ I am **ISTQB CTFL certified** and committed to continuous learning through hands
 - Conducted **manual and mobile testing** (Android & iOS) for **Fortnite** and **Unreal Engine for Fortnite (UEFN)**.  
 - Designed and executed **test cases** based on **BTR documents**, covering **regression**, **smoke**, **UI**, and **functional testing**.  
 - Reported and tracked **200+ bugs using Jira**, ensuring stability across builds.  
-- Collaborated with analysts and developers via **Slack & Zoom**, contributing to sprint planning and team discussions.  
+- Collaborated with analysts and developers via **Slack & Zoom**, contributing to sprint planning and team discussions.
+- Participate in **weekly meetings** with managers and clients to discuss project updates and requirements.
+- Hands-on experience using Charles Proxy to capture logs from crashed UEFN applications for debugging and analysis
+- Utilize TestRail, Jira, and QMetry for test case management, bug tracking, and reporting.
+- Perform Mobile testing on Android and iOS devices, capturing logs and submitting results for analysis.
 - **Focus:** Delivering high-quality gaming experiences through structured testing and quick issue resolution.
 
 ---
